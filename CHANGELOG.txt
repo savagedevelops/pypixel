@@ -1,0 +1,9 @@
+Change Log
+===========
+
+0.0.1 (19/02/22)
+-----------------
+- Initial Release
+- Documentation Released
+- Player Object
+- SkyBlock Object
